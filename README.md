@@ -1,0 +1,2 @@
+# An-Operational-Analysis-of-Lake-Surface-Water-Temperature
+Based on data collected by the NOAA (The National Oceanic and Atmospheric Administration, an agency of the United States government) on the "Daily Lake Average Surface Water Temperature" of six lakes (Ontario, Erie, Huron, Michigan, Superior and St. Clair) in 2019, I used MATLAB to make calculations and draw conclusions from this information.
